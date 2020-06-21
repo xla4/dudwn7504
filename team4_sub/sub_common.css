@@ -1,0 +1,22 @@
+@charset "utf-8"
+.container {width: 100%;}
+.hd, .content, .ft {width: 1280px; margin: 0 auto;}
+.sub_wrap {width: 100%; margin-top: 20px;}
+.sub_menu {width: 300px; float: left; height: 500px;}
+.sub_topbox {height: 200px; margin-top: 30px;}
+.sub_topbox h4 {font-size: 20px; color: #000000;}
+.sub_topbox h2 {margin: 10px 0; font-size: 36px; color: #000000; font-weight: bold;}
+.sub_topbox p {font-size: 18px; color: #333333;}
+.sub_btbox {position: relative; height: 100px;}
+.sub_smenu {position: absolute; bottom: 0; left: 0;}
+.sub_smenu li {display: block; padding-top: 10px;}
+.sub_smenu li a {font-size: 18px; color: #444444;}
+.sub_smenu li a:hover {font-weight: bold;}
+
+.sub_main {width: 950px; float: right;}
+.bread {width: 100%; height: 30px; position: relative;}
+.bread_in {position: absolute; top: 0; right: 0;}
+.bread_in span {font-size: 16px; color: #777777;}
+.bread_in span.now {font-size: 16px; color: #200a97; font-weight: bold;}
+.sub_contents {width: 100%;}
+.sub_contents_in {width: 940px; margin: 0 auto; height: 900px; margin-bottom: 50px; border: 1px solid black;}
