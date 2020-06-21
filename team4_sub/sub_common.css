@@ -5,8 +5,8 @@
 .sub_menu {width: 300px; float: left; height: 500px;}
 .sub_topbox {height: 200px; margin-top: 30px;}
 .sub_topbox h4 {font-size: 20px; color: #000000;}
-.sub_topbox h2 {margin: 10px 0; font-size: 36px; color: #000000; font-weight: bold;}
-.sub_topbox p {font-size: 18px; color: #333333;}
+.sub_topbox h2 {margin: 20px 0; font-size: 36px; color: #000000; font-weight: bold;}
+.sub_topbox p {font-size: 18px; color: #333333; height: 25px; line-height: 25px;}
 .sub_btbox {position: relative; height: 100px;}
 .sub_smenu {position: absolute; bottom: 0; left: 0;}
 .sub_smenu li {display: block; padding-top: 10px;}
